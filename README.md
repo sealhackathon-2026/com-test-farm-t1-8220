@@ -1,1 +1,2 @@
-# com-test-farm-t1-8220
+# Clean RAG Service
+Cấu trúc mã nguồn tốt, bảo mật cao.
